@@ -91,7 +91,9 @@
             "Steel",
             "Electric"
         ],
-        "vulnerabilities": []
+        "vulnerabilities": [
+            "Ground"
+        ]
     },
     {
         "name": "Grass",
