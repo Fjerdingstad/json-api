@@ -8549,8 +8549,9 @@
         "type": [
             "Rock"
         ],
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/745_f2.png",
-        "name_fr": "Lougaroc (Nocturne)"
+        "img": "https://www.serebii.net/scarletviolet/pokemon/new/745-m.png",
+        "name_fr": "Lougaroc (Nocturne)",
+        "img_shiny": "https://www.serebii.net/Shiny/SV/new/745-m.png"
     },
     {
         "form": "Normal",
@@ -8559,8 +8560,9 @@
         "type": [
             "Rock"
         ],
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/745_f3.png",
-        "name_fr": "Lougaroc (Crepusculaire)"
+        "img": "https://www.serebii.net/scarletviolet/pokemon/new/745-d.png",
+        "name_fr": "Lougaroc (Crepusculaire)",
+        "img_shiny": "https://www.serebii.net/Shiny/SV/new/745-d.png"
     },
     {
         "form": "Normal",
