@@ -26033,12 +26033,13 @@
     {
         "form": "normal",
         "id": 6969,
-        "name": "Angry Monkey Tisma",
+        "name": "Tisma",
         "type": [
-            "Fighting"
+            "Electric",
+            "Poison"
         ],
-        "img": "https://raw.githubusercontent.com/Fjerdingstad/json-api/main/pokedexApi/tisma2.png",
-        "name_fr": "Tisma le singe énervé",
+        "img": "https://raw.githubusercontent.com/Fjerdingstad/json-api/main/pokedexApi/jokertisma.png",
+        "name_fr": "le singe énervé",
         "evolution": null,
         "max_cp": 6900
     },
