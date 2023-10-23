@@ -21574,8 +21574,8 @@
         "id": 867,
         "name": "Runerigus",
         "type": [
-            "Ice",
-            "Psychic"
+            "Ground",
+            "Ghost"
         ],
         "img": "https://raw.githubusercontent.com/Yarkis01/PokeAPI/images/sprites/867/regular.png",
         "name_fr": "Tut\u00e9t\u00e9kri",
