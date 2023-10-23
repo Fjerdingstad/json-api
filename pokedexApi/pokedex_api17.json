@@ -26031,6 +26031,18 @@
         "max_cp": 2998
     },
     {
+        "form": "normal",
+        "id": 6969,
+        "name": "Angry Monkey Tisma",
+        "type": [
+            "Fighting"
+        ],
+        "img": "https://raw.githubusercontent.com/Fjerdingstad/json-api/main/pokedexApi/tisma2.png",
+        "name_fr": "Tisma le singe énervé",
+        "evolution": null,
+        "max_cp": 6900
+    },
+    {
         "form": "Paldean",
         "id": 194,
         "name": "Paldean Wooper",
