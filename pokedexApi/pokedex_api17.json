@@ -21574,8 +21574,8 @@
         "id": 867,
         "name": "Runerigus",
         "type": [
-            "Ice",
-            "Psychic"
+            "Ground",
+            "Ghost"
         ],
         "img": "https://raw.githubusercontent.com/Yarkis01/PokeAPI/images/sprites/867/regular.png",
         "name_fr": "Tut\u00e9t\u00e9kri",
@@ -26029,6 +26029,19 @@
         "img_shiny": "https://raw.githubusercontent.com/Yarkis01/PokeAPI/images/sprites/128/shiny_paldea.png",
         "evolution": null,
         "max_cp": 2998
+    },
+    {
+        "form": "normal",
+        "id": 6969,
+        "name": "Tisma",
+        "type": [
+            "Electric",
+            "Poison"
+        ],
+        "img": "https://raw.githubusercontent.com/Fjerdingstad/json-api/main/pokedexApi/jokertisma.png",
+        "name_fr": "le singe énervé",
+        "evolution": null,
+        "max_cp": 6900
     },
     {
         "form": "Paldean",
