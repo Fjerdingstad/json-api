@@ -26111,9 +26111,9 @@
       "pre": [
         {
           "id": 263,
-          "name_fr": "Zigzaton",
-          "name": "Zigzagoon",
-          "img": "https://raw.githubusercontent.com/Yarkis01/PokeAPI/images/sprites/263/regular.png"
+          "name_fr": "Zigzaton de Galar",
+          "name": "Galarian Zigzagoon",
+          "img": "https://raw.githubusercontent.com/Yarkis01/PokeAPI/images/sprites/263/regular_galar.png"
         }
       ],
       "next": [
