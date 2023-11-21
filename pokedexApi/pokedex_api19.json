@@ -21509,7 +21509,8 @@
         {
           "id": 1011,
           "name_fr": "Pomdramour",
-          "name": "Dipplin"
+          "name": "Dipplin",
+          "img": "https://raw.githubusercontent.com/Yarkis01/PokeAPI/images/sprites/1011/regular.png"
         }
       ],
       "mega": null
