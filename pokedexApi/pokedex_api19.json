@@ -1615,9 +1615,9 @@
     "type": [
       "Fighting"
     ],
-    "img": "https://raw.githubusercontent.com/Fjerdingstad/json-api/main/pokedexApi/images/56.png",
+    "img": "https://raw.githubusercontent.com/Fjerdingstad/json-api/main/pokedexApi/images/56_2.png",
     "name_fr": "Ferosinge",
-    "img_shiny": "https://raw.githubusercontent.com/Fjerdingstad/json-api/main/pokedexApi/images/56_shiny.png",
+    "img_shiny": "https://raw.githubusercontent.com/Fjerdingstad/json-api/main/pokedexApi/images/56_shiny_2.png",
     "evolution": {
       "pre": null,
       "next": [
