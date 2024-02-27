@@ -26644,19 +26644,6 @@
     "max_cp": 2998
   },
   {
-    "form": "normal",
-    "id": 6969,
-    "name": "Tisma",
-    "type": [
-      "Electric",
-      "Poison"
-    ],
-    "img": "https://raw.githubusercontent.com/Fjerdingstad/json-api/main/pokedexApi/jokertisma.png",
-    "name_fr": "le singe énervé",
-    "evolution": null,
-    "max_cp": 6900
-  },
-  {
     "form": "Paldean",
     "id": 194,
     "name": "Paldean Wooper",
